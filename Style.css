@@ -1,0 +1,23 @@
+
+
+/*  background color of the home section */
+#home {
+    background-color: #007bff;
+}
+
+/*  padding to the services section */
+#services {
+    padding: 50px 0;
+}
+
+/* card image size  */
+.card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+/* space between form fields */
+form .form-group {
+    margin-bottom: 1rem;
+}
+
